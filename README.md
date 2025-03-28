@@ -2,7 +2,7 @@
 
 Your command-line companion for certification exam preparation! Ask questions about any topic in your study materials and get intelligent, personalized quizzes to test your knowledge.
 
-## What is CLI Study Buddy?
+## What is the CLI Study Buddy?
 
 CLI Study Buddy uses [Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html?trk=861fe434-89a6-4c2a-ac1f-9a898d3f87f7&sc_channel=el) to help you study smarter, not harder. Feed it your study materials, and it will:
 - Generate relevant practice questions
