@@ -1,4 +1,4 @@
-# CLI Study Buddy
+# AI-powered CLI Study Buddy Quiz App
 
 Your command-line companion for certification exam preparation! Ask questions about any topic in your study materials and get intelligent, personalized quizzes to test your knowledge.
 
